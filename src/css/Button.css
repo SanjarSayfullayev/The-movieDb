@@ -1,0 +1,53 @@
+.click_button{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(3, 37, 65);
+    padding: 10px 21px;
+    color: coral;
+}
+.click_button2{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 22px;
+    color: coral;
+}
+.btn_border{
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+p{
+    margin: 0 !important; 
+}
+.poster_img img {
+    border-radius: 15px;
+    box-shadow: 0px 5px 5px black;
+}
+.progres{
+    /* background-color: black; */
+    color: #fff;
+}
+.progres_back {
+    display: inline-block;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -20px; 
+    left: 20px;
+}
+.ant-progress-text {
+    color: coral !important;
+    font-weight: 30px;
+}
+.poster_img {
+    position: relative;
+}
+.text .text1{
+    font-weight: 700;
+    font-size: 20px;
+}
+.bg_1{
+    background-color: rgba(13, 13, 13, 0.174) !important;
+    padding: 10px 0;
+}

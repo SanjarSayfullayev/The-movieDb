@@ -1,0 +1,47 @@
+ul, li, p{
+    margin: 0;
+    padding: 0;
+
+}
+.right_navbar{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+.item ul li:hover .navbar_item {
+    display: block;
+    position: absolute;
+    background-color: white;
+}
+.navbar_item{
+    display: none;
+}
+.item ul li{
+    position: relative;
+}
+.item{
+    margin-left: 10px;
+}
+.item ul li a{
+    color: white;
+}
+.navbar_item ul{
+    display: block;
+    margin: 5px;
+}
+
+.navbar_item ul li{
+    width: 120px;
+    /* padding: 5px; */
+    list-style-type: none;
+    margin: 0;
+}
+.navbar_item ul li a{
+    text-decoration: none;
+    color: black;
+    text-align: start;
+}
+.bg{
+    background-color: rgb(3, 37, 65);
+}

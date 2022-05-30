@@ -1,0 +1,23 @@
+.bg{
+    background-color: rgb(3, 37, 65);
+}
+.list_item{
+    color: #fff;
+}
+.list_item p{
+    font-size: 18px;
+}
+.list_item ul {
+    list-style-type: none;
+    padding: 0;
+}
+.list_item ul li{
+    margin-top: 5px;
+}
+.list_item ul li a{
+    color: #fff;
+}
+.img_db{
+    margin-top: 50px;
+    margin-left: 100px;
+}
